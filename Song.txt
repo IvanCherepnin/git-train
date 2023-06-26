@@ -7,3 +7,5 @@ Row number five was missing, so it's munger six
 And seven as well
 Row number eight
 And row number nine
+
+Feature commit 1
