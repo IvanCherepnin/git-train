@@ -2,3 +2,8 @@ This is the first row of the song
 And one more row here, which is the second one
 The third line
 And the 4th one
+
+Row number five was missing, so it's munger six
+And seven as well
+Row number eight
+And row number nine
