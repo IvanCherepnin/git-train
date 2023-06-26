@@ -9,3 +9,5 @@ Row number eight
 And row number nine
 
 Feature commit 1
+
+feature commit 2
